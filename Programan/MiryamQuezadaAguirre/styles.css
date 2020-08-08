@@ -1,0 +1,28 @@
+.cards{
+	border: 1px solid gray;
+	width:30%;
+}
+
+.cards img{
+	width: 60%;
+	height: 250px;
+}
+
+input{
+	width: 30%;
+}
+
+nav{
+	/*position: fixed;*/
+	text-align: right;
+	width: 100%;
+	background: darkcyan;
+	color:white;
+	padding-right: 10%;
+	width:90%;
+}
+
+header{
+	padding-bottom: 2%;
+	width: 100hw;
+}
